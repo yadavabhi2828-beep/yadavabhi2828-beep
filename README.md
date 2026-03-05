@@ -58,3 +58,7 @@ www.linkedin.com/in/abhishek-yadav-2803532b2
 
 GitHub  
 github.com/yadavabhi2828-beep
+
+## GitHub Stats
+
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavabhi2828-beep&show_icons=true&theme=tokyonight)
